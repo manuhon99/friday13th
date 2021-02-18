@@ -618,7 +618,7 @@ header {
   transform: translate3d(-50%, 0, 0);
   transition: 0.7s ease;
   color: #f1f1f1e8;
-  background-image: url("{{url_for('static', filename='faca.png')}}");
+  background-image: url("/static/img/faca.png");
   background-size: contain;
 }
 .nav-link:hover {
