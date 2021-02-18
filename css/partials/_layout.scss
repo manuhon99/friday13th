@@ -250,7 +250,8 @@ align-items: center;
 
 
       @include responsive(s){
-        display: none;
+        max-width: 960px;
+        order: 2;
       }
 
 
