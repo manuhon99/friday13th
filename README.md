@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img alt="13th" title="13th" src="https://github.com/manuhon99/friday13th/blob/main/img/ico.png" width="380"/>
+    <img alt="13th" title="13th" src="https://github.com/manuhon99/friday13th/blob/main/img/ico.png" width="320"/>
 </h1>
 
 <h4 align="center"> 
@@ -17,6 +17,10 @@
 ### About 
 
 A Friday 13th fan movie website page. This project was developed based on [Miles Morales](https://github.com/manuhon99/miles_morales) game website page, by Nasser Youssef on Front end week.
+
+<h1 align="center">
+	<img src="https://github.com/manuhon99/friday13th/blob/main/heroku/static/img/teste2.png" width="380"/>
+</h1>
 
 ---
 
