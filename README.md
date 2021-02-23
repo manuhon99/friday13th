@@ -22,7 +22,7 @@ A Friday 13th fan movie website page. This project was developed based on [Miles
 
 ### How it works
 
-You can fork or git clone this repository, then run the index.html page. The project is deployed on [Heroku](https://jason13th.herokuapp.com/)
+You can fork or clone this repository, then run the index.html page. The project is deployed on [Heroku](https://jason13th.herokuapp.com/)
 
 
 ### Preview
